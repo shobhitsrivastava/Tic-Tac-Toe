@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.board {
+    border: solid black;
+    width: 100%;
+    height: 200px;
+    fill: black;
+}
+
+td {
+    height: 100px;
+    width: 100px;
+    border:solid black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.hover {
+    background-color: #9754ff;
+}
+
+.x {
+    background-image: url("http://www.clker.com/cliparts/a/6/e/8/119498563188281957tasto_8_architetto_franc_01.svg.thumb.png");
+}
+
+.o {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/O-Jolle_insigna.png/100px-O-Jolle_insigna.png");
+}
